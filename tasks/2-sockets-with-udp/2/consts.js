@@ -6,5 +6,6 @@ module.exports = {
     DIVISION: 4
   },
   SERVER_PORT: 41234,
-  CLIENT_PORT: 41235
+  CLIENT_PORT: 41235,
+  HOST: 'localhost'
 }
